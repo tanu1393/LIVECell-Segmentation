@@ -1,0 +1,13 @@
+albumentations
+argparse
+cv2
+json
+matplotlib>=3.3.0
+numpy>=1.20.0
+os
+pytorch_lightning
+segmentation_models_pytorch
+shutil
+torch
+torchmetrics
+torchvision
